@@ -2,8 +2,7 @@
   padding:0;
   margin:0;
   font-family: 'Roboto', sans-serif;
-  text-align:center;
-  background-color:#ffcc77;
+  background-color: #4A4A4A;
 }
 
 .clearfix {
@@ -117,10 +116,6 @@ a {
 }
 
 /* TODO: Replace with image later */
-#header {
-  border: 3px solid #000000;
-  border-radius: 43%;
-}
 
 .flex-box {
   display: -webkit-flex;
